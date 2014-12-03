@@ -1,0 +1,24 @@
+{
+  "name": "gulp-boilerplate",
+  "description": "get started with gulp to automate JS tasks",
+  "version": "0.0.0",
+  "homepage": "",
+  "author": {
+    "name": "Jeremy Folds",
+    "email": "jmfolds@gmail.com",
+    "url": "http://jeremyfolds.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jmfolds/gulp-boilerplate"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "devDependencies": {
+    "gulp": "~3.8.10",
+    "gulp-jshint": "~1.9.0",
+    "jshint-stylish": "~1.0.0"
+  },
+  "dependencies": {}
+}
